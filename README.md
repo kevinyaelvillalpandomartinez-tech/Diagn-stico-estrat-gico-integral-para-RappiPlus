@@ -1,1 +1,1 @@
-# Diagn-stico-estrat-gico-integral-para-RappiPlus
+# Diagnostico-estrategico-integral-para-RappiPlus
