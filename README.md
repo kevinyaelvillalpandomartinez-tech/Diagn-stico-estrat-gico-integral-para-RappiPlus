@@ -252,6 +252,10 @@ Incluye indicadores como:
 - KPIs principales
 
 El dashboard está orientado a facilitar la toma de decisiones de negocio.
+<img width="1311" height="743" alt="image" src="https://github.com/user-attachments/assets/51819fa9-9131-416b-b7cc-a3544ffcee25" />
+
+
+
 
 ---
 
