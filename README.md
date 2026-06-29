@@ -46,30 +46,8 @@ Este análisis busca responder preguntas de negocio como:
 
 ---
 
-# 📂 Estructura del Proyecto
 
-```
-RappiPlus-Analytics
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── notebooks/
-│   └── Kevin.ipynb
-│
-├── dashboards/
-│
-├── images/
-│
-├── documentation/
-│
-├── README.md
-│
-└── requirements.txt
-```
 
----
 
 # 📊 Dataset
 
